@@ -1,4 +1,4 @@
-# Mini_Practice_Projects
+# Mini-Practice-Projects-js
 
  1) Color Changer - (https://project-links.github.io/1-Color_Changer-js/)
  2) BMI Calculator - (https://project-links.github.io/2-BMI-Calculator-js/)
